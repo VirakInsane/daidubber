@@ -1,0 +1,14 @@
+pywebview>=6.2.1
+customtkinter>=6.0.0
+darkdetect>=0.8.0
+demucs>=4.0.1
+openai-whisper>=20231117
+edge-tts>=7.3.1
+google-generativeai>=0.8.0
+pydub>=0.25.1
+torch>=2.0.0
+torchaudio>=2.0.0
+numpy>=1.24.0
+soundfile>=0.12.0
+librosa>=0.10.0
+gTTS>=2.5.0

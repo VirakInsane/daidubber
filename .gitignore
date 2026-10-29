@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller / Build outputs
+build/
+build_small/
+dist/
+dist_small/
+*.pkg
+*.manifest
+
+# Binaries & large media tools (FFmpeg should be downloaded/installed, not stored in git)
+bin/
+*.exe
+
+# Temporary video/audio processing cache and test scratchpad
+temp/
+scratch/
+*.wav
+*.mp3
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.webm
+
+# Sensitive configuration containing private API keys and personal paths
+config.json
+
+# Logs
+*.log
+logs/
+
+# System & IDE files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
